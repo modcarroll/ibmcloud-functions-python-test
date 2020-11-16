@@ -1,4 +1,4 @@
-#!/Users/morgan/Desktop/nltkforolga/virtualenv/bin/python
+#!/Users/morgan/Desktop/python-depend-functions/virtualenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

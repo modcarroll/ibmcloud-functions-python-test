@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/morgan/Desktop/nltkforolga/virtualenv"
+$VIRTUAL_ENV = r"/Users/morgan/Desktop/python-depend-functions/virtualenv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
